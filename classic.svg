@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="600" viewBox="0 0 700 600">
+<rect width="700" height="600" fill="#e8e6dc"/>
+<circle cx="535" cy="125" r="110" fill="#ffffff" opacity=".28"/>
+<path d="M0 475 Q180 420 350 475 T700 465 V600 H0Z" fill="#ffffff" opacity=".28"/>
+<g transform="translate(245 115) rotate(-8 105 170)">
+<rect x="0" y="0" width="210" height="340" rx="42" fill="#8a9583" opacity=".18"/>
+<rect x="13" y="12" width="184" height="316" rx="34" fill="#8a9583" opacity=".82"/>
+<path d="M35 65 Q105 25 175 65" fill="none" stroke="#fff" stroke-width="3" opacity=".35"/>
+<text x="105" y="165" text-anchor="middle" font-family="Georgia,serif" font-size="56" fill="#fff">✦</text>
+<text x="105" y="220" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" letter-spacing="3" fill="#fff">DAILY CARE</text>
+<text x="105" y="250" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="2" fill="#fff">BOTANICAL BAR</text>
+</g></svg>
